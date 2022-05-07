@@ -1,5 +1,6 @@
 ### Hi there, I'm Aaradhay Vijay 👋
-- 💁 An 18 year old student passionate about Tech.
+- 💁 An 18 Year Old Student Passionate About Tech.
 - 🪐 From Alwar, India.
-- 🖥️ Currently working on Android Open Source Projects.
-- ⚡ Fun fact: Popularly known as Inferno around Telegram.
+- 🖥️ Currently Working On Android Related Open Source Projects.
+- ⚡ Fun Dact: Popularly Known As Inferno Around Telegram.
+- 😄 Pronouns: He / Him
