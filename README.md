@@ -1,5 +1,9 @@
-### Hi there, I'm Aaradhay Vijay 👋
-- 💁 An 18 Year Old Student Passionate About Tech.
-- 🪐 From Alwar, India.
-- 🖥️ Currently Working On Android Related Open Source Projects.
-- ⚡ Fun Fact: Popularly Known As Inferno Around Telegram.
+### Hey there, This Is Aaradhay Vijay 👋
+- 👤 An 18 Year Old Student.
+- 🪐 From Alwar, Rajasthan, India.
+- 🧑‍🎓 Batchelor Of Commerce Undergraduate & C.A. Aspirant.
+- 📚 Completed High School From Mount Litera Zee School, Alwar.
+- 🎖️ Studying At Raj Rishi College Of Commerce, Alwar.
+- 🖲️ Passionate For Tech Since Childhood.
+- 🖥️ Likes To Work On Android Related Open Source Projects.
+- 📱 Maintaining PixelExperience & AOSP Extended Officially For Xiaomi Redmi Note 7 (lavender).
